@@ -25,8 +25,8 @@
 
 ## 📸 Screenshots
 ![Homepage Screenshot](src/assets/homepage.png)
-![Quiz Page Screenshot](./assets/quiz.png)
-![Result Page Screenshot](./assets/result.png)
+![Quiz Page Screenshot](src/assets/quiz.png)
+![Result Page Screenshot](src/assets/result.png)
 
 
 
