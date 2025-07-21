@@ -1,0 +1,46 @@
+.footer{
+     text-align: center;
+    padding: 20px;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 1.2rem;
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-top: 2px solid rgb(226, 219, 85);
+    margin-top: 30px;
+    position: relative;
+    z-Index: 2,
+}
+.text{
+    margin: 5px 0;
+    animation: glow 2s ease-in-out infinite alternate;
+}
+.heart {
+    color: red;
+    font-size: 1.5rem;
+    animation: heartbeat 1.2s infinite;
+    display: inline-block;
+  }
+  .signature {
+    margin-top: 10px;
+    font-style: italic;
+    font-size: 1.1rem;
+    color: #f1da06;
+    animation: glow 2s ease-in-out infinite alternate;
+  }
+  @keyframes glow {
+  0% {
+    text-shadow: 0 0 5px #ff69b4, 0 0 10px #ff69b4;
+  }
+  100% {
+    text-shadow: 0 0 10px #e255d2, 0 0 20px #e255d2;
+  }
+}
+
+@keyframes heartbeat {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.3);
+  }
+}

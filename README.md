@@ -35,5 +35,5 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/diksharaj2005/react_quiz_app.git
+   git clone https://github.com/diksharaj2005/quiz_react_app.git
    cd cerebroquest
