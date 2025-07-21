@@ -24,9 +24,10 @@
 ---
 
 ## 📸 Screenshots
-![Homepage Screenshot](./assets/homepage.png)
-![Quiz Page Screenshot](./assets/quiz.png)
-![Result Page Screenshot](./assets/result.png)
+![Homepage Screenshot](assets/homepage.png)
+![Quiz Page Screenshot](assets/quiz.png)
+![Result Page Screenshot](assets/result.png)
+
 
 
 ---
