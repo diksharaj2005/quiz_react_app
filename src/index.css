@@ -193,7 +193,10 @@ body::-webkit-scrollbar{
      
   }
   .final_score{
-    font-size: 4rem;
+    font-size: 3rem;
+  }
+  ..quizInfo{
+    gap:2rem
   }
   
 }
