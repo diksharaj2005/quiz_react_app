@@ -24,10 +24,6 @@
 ---
 
 ## 📸 Screenshots
-<<<<<<< HEAD
-![Homepage Screenshot](assets/homepage.png)
-![Quiz Page Screenshot](assets/quiz.png)
-![Result Page Screenshot](assets/result.png)
 =======
 #HOMEPAGE
 ![Homepage Screenshot](src/assets/homepage.png)
@@ -39,7 +35,6 @@
 #RESULT PAGE
 ![Result Page Screenshot](src/assets/result.png)
 
->>>>>>> 3226b075695baaafc3564f4a994e931bfda3d1e4
 
 
 ---
